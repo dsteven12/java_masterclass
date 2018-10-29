@@ -8,6 +8,5 @@ public class Hello {
         String name = userName.nextLine();
         userName.close();
         System.out.println("Hello " + name + "!");
-
     }
 }
